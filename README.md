@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on ... Infrastructure automation, scientific and GPU computing
 - 🌱 I’m currently learning ... AI/ML, LLMs, Text to Image Generation
-- 💬 Ask me about ... Puppet configuration management!  
+- 💬 Ask me about ... Puppet configuration management, security hardening, and Python!  
 <!--
 **pmekhedjian/pmekhedjian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
